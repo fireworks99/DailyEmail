@@ -1,0 +1,19 @@
+{
+  "name": "email",
+  "version": "1.0.0",
+  "description": "test nodemailer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index.js"
+  },
+  "keywords": [
+    "nodemailer"
+  ],
+  "author": "fireworks99",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "nodemailer": "^6.9.16"
+  }
+}
